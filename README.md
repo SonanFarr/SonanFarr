@@ -18,6 +18,6 @@
 
 ## Emails de contato
 
-Estudante: daniel.rezende@estudante.ufjf.br
+Pessoal: danielmrezende@yahoo.com.br
 
-ICE: daniel.muller@ice.ufjf.br
+Estudante: daniel.rezende@estudante.ufjf.br

@@ -9,8 +9,3 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-muller-rezende-ab2542222)
 
-## Emails de contato
-
-Pessoal: danielmrezende@yahoo.com.br
-
-Estudante: daniel.rezende@estudante.ufjf.br

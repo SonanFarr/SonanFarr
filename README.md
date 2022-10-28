@@ -33,12 +33,10 @@ Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusias
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
-##
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMilhas&hide=javascript&theme=tokyonight)](https://github.com/MrMilhas/github-readme-stats)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMilhas&hide=javascript&theme=tokyonight)](https://github.com/MrMilhas/github-readme-stats)
-
-## Social
+## 📱 Social
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-muller-rezende-ab2542222)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.muller@ice.ufjf.br)

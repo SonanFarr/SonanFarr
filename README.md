@@ -6,7 +6,7 @@ Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusias
 
 * Inteligência Artificial 
 * Aprendizado de Máquina
-* Aprendizado profundo 
+* Aprendizado Profundo 
 * Visão Computacional
 * Ciência de Dados
 
@@ -21,16 +21,18 @@ Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusias
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-## ⚙️ Estudando
-
-<div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+## ⚙️ Estudando
+
+<div> 
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />         
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 </div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&theme=tokyonight)

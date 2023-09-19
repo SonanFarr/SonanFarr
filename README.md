@@ -33,6 +33,7 @@ Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusias
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />         
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 </div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&theme=tokyonight)

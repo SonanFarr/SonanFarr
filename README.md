@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Daniel+Muller!;" />
 </h1>
@@ -39,6 +37,14 @@ Hello! My name is Daniel Muller, a humble computing student and technology enthu
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMilhas&hide=javascript&theme=tokyonight)](https://github.com/MrMilhas/github-readme-stats)-->
+
+## ⚡ Stats
+
+<div>
+    <img width="390em" height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MrMilhas&&theme=blue_navy">
+    <img width="370em" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&include_all_commits=true&theme=blue_navy">
+    <img width="242em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMilhas&layout=compact&langs_count=8&theme=blue_navy">
+</div>
 
 ## 📱 Social
 

@@ -35,20 +35,20 @@ Hello! My name is Daniel Muller, a humble computing student and technology enthu
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 </div>
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMilhas&hide=javascript&theme=tokyonight)](https://github.com/MrMilhas/github-readme-stats)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonanFarr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonanFarr&hide=javascript&theme=tokyonight)](https://github.com/SonanFarr/github-readme-stats)-->
 
 ## 🐍 Contributions
 
 <div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MrMilhas/MrMilhas/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SonanFarr/SonanFarr/output/github-contribution-grid-snake.svg" />
 </div>
 
 ## ⚡ Stats
 
 <div align="center">
-    <img width="390em" height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MrMilhas&&theme=blue_navy">
-    <img width="370em" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&include_all_commits=true&theme=blue_navy">
+    <img width="390em" height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SonanFarr&&theme=blue_navy">
+    <img width="370em" height="180em" src="https://github-readme-stats.vercel.app/api?username=SonanFarr&show_icons=true&include_all_commits=true&theme=blue_navy">
 </div>
 
 ## 📱 Social

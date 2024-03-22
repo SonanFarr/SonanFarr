@@ -1,16 +1,22 @@
-# Bem Vindo ao Meu Santuário de Aprendizado!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusiasta de tecnologia. Atualmente estou cursando a graduação e iniciando minha jornada como pesquisador de IA. Esta página representa minha evolução neste universo tão extraordinário que é a computação. Fique à vontade! E que a Força esteja com você!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Daniel+Muller!;" />
+</h1>
 
-## 🔍 Interesses
+# Welcome to My Sanctuary of Learning!
 
-* Inteligência Artificial 
-* Aprendizado de Máquina
-* Aprendizado Profundo 
-* Visão Computacional
-* Ciência de Dados
+Hello! My name is Daniel Muller, a humble computing student and technology enthusiast. I am currently pursuing my degree and starting my journey as an AI researcher. This page represents my evolution in this extraordinary universe that is computing. Feel free! And may the Force be with you!
 
-## 🖥️ Habilidades
+## 🔍 Interests
+
+* Artificial intelligence
+* Machine Learning
+* Deep Learning
+* Computer vision
+* Data Science
+
+## 🖥️ Skills
 
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
@@ -22,7 +28,7 @@ Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusias
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-## ⚙️ Estudando
+## ⚙️ Studying
 
 <div> 
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />

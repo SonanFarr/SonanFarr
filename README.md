@@ -1,6 +1,6 @@
 # Bem Vindo ao Meu Santuário de Aprendizado!
 
-Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusiasta de tecnologia. Atualmente estou cursando a graduação e buscando aprimorar meus conhecimentos. Esta página representa minha evolução neste universo tão extraordinário que é a computação. Fique à vontade! E que a Força esteja com você!
+Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusiasta de tecnologia. Atualmente estou cursando a graduação e iniciando minha jornada como pesquisador de IA. Esta página representa minha evolução neste universo tão extraordinário que é a computação. Fique à vontade! E que a Força esteja com você!
 
 ## 🔍 Interesses
 
@@ -14,17 +14,12 @@ Olá! Meu nome é Daniel Muller, um humilde estudante de computação e entusias
 
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ## ⚙️ Estudando

@@ -26,7 +26,7 @@ Hello! My name is Daniel Muller, a humble computing student and technology enthu
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-## ⚙️ Studying
+## 📖 Studying
 
 <div> 
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -37,6 +37,12 @@ Hello! My name is Daniel Muller, a humble computing student and technology enthu
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMilhas&hide=javascript&theme=tokyonight)](https://github.com/MrMilhas/github-readme-stats)-->
+
+## 🐍 Contributions
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MrMilhas/MrMilhas/output/github-contribution-grid-snake.svg" />
+</div>
 
 ## ⚡ Stats
 

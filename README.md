@@ -40,10 +40,9 @@ Hello! My name is Daniel Muller, a humble computing student and technology enthu
 
 ## ⚡ Stats
 
-<div>
+<div align="center">
     <img width="390em" height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MrMilhas&&theme=blue_navy">
     <img width="370em" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&include_all_commits=true&theme=blue_navy">
-    <img width="242em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMilhas&layout=compact&langs_count=8&theme=blue_navy">
 </div>
 
 ## 📱 Social

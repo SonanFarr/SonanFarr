@@ -41,7 +41,7 @@ Hello! My name is Daniel Muller, a humble computing student and technology enthu
 ## 🐍 Contributions
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/MrMilhas/MrMilhas/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MrMilhas/MrMilhas/output/github-contribution-grid-snake.svg" />
 </div>
 
 ## ⚡ Stats

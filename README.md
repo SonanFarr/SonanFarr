@@ -8,11 +8,10 @@ Hello! My name is Daniel Muller, a humble computing student and technology enthu
 
 ## 🔍 Interests
 
-* Artificial Intelligence
 * Machine Learning
 * Deep Learning
 * Computer Vision
-* Data Science
+* Image Processing
 
 ## 🖥️ Skills
 
